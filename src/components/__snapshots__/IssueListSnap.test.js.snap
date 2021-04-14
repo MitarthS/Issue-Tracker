@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When issues array is passed to IssueList renders correctly when passed the  props 1`] = `ShallowWrapper {}`;
+
+exports[`When issues empty array passed to IssueList should not crash 1`] = `ShallowWrapper {}`;
+
+exports[`When no props is passed to Issue  renders correctly 1`] = `ShallowWrapper {}`;

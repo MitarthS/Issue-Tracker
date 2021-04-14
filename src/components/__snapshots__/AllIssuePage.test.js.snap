@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When issues array is passed to AllIssuePage renders correctly when passed the  props 1`] = `ShallowWrapper {}`;
+
+exports[`When issues array passed to AllIssuePage is null should not crash 1`] = `ShallowWrapper {}`;
+
+exports[`When no props is passed to AllIssuePage  renders correctly 1`] = `ShallowWrapper {}`;

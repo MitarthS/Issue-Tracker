@@ -1,0 +1,21 @@
+{"users": [
+    {
+      "fname": "Raj",
+      "lname": "Sharma",
+      "email": "rajsh@mail.com",
+      "password": "abcd"
+    },
+    {
+        "fname": "Abhi",
+        "lname": "Dev",
+        "email": "abdev@mail.com",
+        "password": "abd"
+    },
+    {
+        "fname": "Ilya",
+        "lname": "Kumar",
+        "email": "ilkumar@mail.com",
+        "password": "ilkmr"
+    }
+  ]
+}
